@@ -1,0 +1,1 @@
+import{_ as n,g as e,f as t}from"./_plugin-vue_export-helper-4e0f1051.js";const a={};function c(o,s,r,i,f,_){return t(),e("h1",null,"Finance")}const p=n(a,[["render",c],["__file","/var/www/inflow-auto-front-main/src/views/finance/FinanceList.vue"]]);export{p as default};

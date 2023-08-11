@@ -1,0 +1,1 @@
+import{A as a,u as n}from"./Api-3d31057e.js";async function r(){try{const s=await a.get("companies"),{principalStore:o}=n();o.dispatch(async e=>{e.companies={data:s.data||[],isLoading:!1}})}catch(s){console.log("error",s)}}async function c(s){return await a.post("companies",s)}export{r as f,c as p};

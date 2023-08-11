@@ -1,0 +1,1 @@
+import{_ as e,g as t,f as s}from"./_plugin-vue_export-helper-4e0f1051.js";const c={};function o(i,n,r,a,l,_){return s(),t("h1",null,"VehicleList")}const p=e(c,[["render",o],["__file","/var/www/inflow-auto-front-main/src/views/vehicles/VehicleList.vue"]]);export{p as default};
